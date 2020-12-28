@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title>Welcome to DataGridz</title>
+<title>Welcome to DataGridz Tech</title>
 </head>
 <body>
 Welcome ${username}
