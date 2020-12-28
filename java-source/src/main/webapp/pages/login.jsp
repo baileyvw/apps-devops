@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title>Insert title here</title>
+<title>DataGridz Tech</title>
 </head>
 <body bgcolor="silver">
 
@@ -15,7 +15,7 @@
             <table border="0" width="30%" cellpadding="3">
                 <thead>
                     <tr>
-                        <th colspan="2">Login Page_New</th>
+                        <th colspan="2">Login Page</th>
                     </tr>
                 </thead>
                 <tbody>
