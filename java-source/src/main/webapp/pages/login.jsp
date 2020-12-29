@@ -15,7 +15,7 @@
             <table border="0" width="30%" cellpadding="3">
                 <thead>
                     <tr>
-                        <th colspan="2">Login Here</th>
+                        <th colspan="2">Login in to app</th>
                     </tr>
                 </thead>
                 <tbody>
