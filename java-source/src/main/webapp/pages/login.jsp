@@ -15,7 +15,7 @@
             <table border="0" width="30%" cellpadding="3">
                 <thead>
                     <tr>
-                        <th colspan="2">Login in to world of Docker & Kubernetes</th>
+                        <th colspan="2">Login in to world of Dockers & Kubernetes</th>
                     </tr>
                 </thead>
                 <tbody>
