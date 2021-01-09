@@ -15,7 +15,7 @@
             <table border="0" width="30%" cellpadding="3">
                 <thead>
                     <tr>
-                        <th colspan="2">Login in Kubernetes Cluster</th>
+                        <th colspan="2">Login in world of containers</th>
                     </tr>
                 </thead>
                 <tbody>
